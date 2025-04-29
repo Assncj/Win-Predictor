@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+    /* background-image:url('images/ipl2.jpg'); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.heading{
+    text-align: center;
+    font-family:monospace;
+    color: rgb(42, 136, 165);
+    font-size: 27px;
+}
+.teams{
+    /* text-align: center; */
+    color: blue;
+    display:flex;
+    justify-content: center;
+    
+  
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+p:hover{
+    color: red;
+}
+h1:hover{
+    color: red;
+}
+.vs{
+    text-align: center;
+    color: blue;
+}
+footer {
+    margin-top: 5%;
+    color: red;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  footer:hover{
+    color: blue;
+  }
+  .result{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orange;
+    font-size: 25px;
+  }
+  h2:hover{
+    color: red;
+  }
+  h2:active{
+    color: blue;
+  }
+  h1:active{
+    color:blue;
+  }
+  p:active{
+    color:blue;
+  }
